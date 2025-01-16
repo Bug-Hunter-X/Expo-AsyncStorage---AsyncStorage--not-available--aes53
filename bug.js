@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo and getting an error like `AsyncStorage: not available` even though you've followed the documentation. It's often due to a mismatch between the AsyncStorage implementation used by Expo and the environment (e.g., iOS simulator vs. physical device).
